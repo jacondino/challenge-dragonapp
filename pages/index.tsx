@@ -1,5 +1,5 @@
-import Login from './login';
+import HomePage from './home';
 
-export default function Home() {
-  return <Login />;
+export default function IndexPage() {
+  return <HomePage />;
 }
