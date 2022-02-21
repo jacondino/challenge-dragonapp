@@ -1,0 +1,22 @@
+.formLogin {
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.formLogin button {
+  margin-top: 20px;
+  margin-left: auto;
+  display: block;
+}
+
+.group {
+  margin-bottom: 20px;
+}
+
+.form {
+  width: 300px;
+  padding: 28px;
+  border: 1px solid #e6e6e6;
+}

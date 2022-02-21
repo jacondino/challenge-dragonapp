@@ -1,0 +1,10 @@
+.card {
+  height: 180px;
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

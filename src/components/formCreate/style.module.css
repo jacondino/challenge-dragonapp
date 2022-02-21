@@ -1,0 +1,23 @@
+.formCreate {
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.group {
+  margin-bottom: 20px;
+}
+
+.form {
+  width: 300px;
+  padding: 28px;
+  border: 1px solid #e6e6e6;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}

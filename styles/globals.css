@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.alert {
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  width: 100%;
+}
