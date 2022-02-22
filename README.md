@@ -1,15 +1,24 @@
 ## Começando
 
 ```bash
+npm i
+# ou
+yarn
+```
+
+## Rodar para desenvolvimento
+
+```bash
 npm run dev
-# or
+# ou
 yarn dev
 ```
+
 
 ## Rodar para produção
 
 ```bash
 npm run build
-# or
+# ou
 yarn build
 ```
